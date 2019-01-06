@@ -1,1 +1,1 @@
-# Learn Javascript DOM 1 
+# Todo list with Javascript DOM
